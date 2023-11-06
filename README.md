@@ -25,7 +25,7 @@ Hello there! I'm Ana, a passionate computer science student on a journey to expl
 
 ## Top Languages
 
-[![Top language](https://img.shields.io/github/languages/top/AnaMTF/AnaMTF?style=for-the-badge)](https://github.com/AnaMTF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/AnaMTF/github-readme-stats)
 
 ## Contact Me
 
