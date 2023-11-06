@@ -29,7 +29,7 @@ Hello there! I'm Ana, a passionate computer science student on a journey to expl
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/anamaria-titeche/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anamaria-titeche/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ana.titeche/)
 
 
