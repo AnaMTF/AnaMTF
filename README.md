@@ -18,11 +18,13 @@ Hello there! I'm Ana, a passionate computer science student on a journey to expl
 🐱 Animal Enthusiast: Cute and cuddly creatures are my weakness. Whether it's cats, dogs, or any adorable animal, I'm a firm believer that they make the world a better place.
 
 ## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMTF&show_icons=true&theme=midnight-purple\&rank_icon=github\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub activity](https://img.shields.io/github/commit-activity/m/AnaMTF/AnaMTF?style=for-the-badge)](https://github.com/AnaMTF)
 [![GitHub issues](https://img.shields.io/github/issues/AnaMTF/AnaMTF?style=for-the-badge)](https://github.com/AnaMTF)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AnaMTF/AnaMTF?style=for-the-badge)](https://github.com/AnaMTF)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMTF&show_icons=true&theme=midnight-purple\&rank_icon=github\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Contact Me
 
