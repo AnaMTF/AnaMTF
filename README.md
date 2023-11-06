@@ -25,7 +25,7 @@ Hello there! I'm Ana, a passionate computer science student on a journey to expl
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/AnaMTF/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMTF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
