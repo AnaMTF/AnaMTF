@@ -2,11 +2,20 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AnaMTF?style=social)](https://github.com/AnaMTF)
 [![GitHub stars](https://img.shields.io/github/stars/AnaMTF?style=social)](https://github.com/AnaMTF)
-[![GitHub forks](https://img.shields.io/github/forks/AnaMTF?style=social)](https://github.com/AnaMTF)
 
 ## About Me
 
-I am a student studying computer science and engineering alongside information theory.
+👩‍💻 Computer Science Student | Game Enthusiast | Creative Artist | Animal Lover 🐾
+
+Hello there! I'm Ana, a passionate computer science student on a journey to explore the endless possibilities of the digital world. Beyond my code-filled screens, I'm a multifaceted individual with a love for diverse interests.
+
+🌐 Coding Maven: When I'm not buried in algorithms and debugging, I thrive on creating elegant solutions to complex problems. Whether it's web development, software engineering, or exploring the realms of artificial intelligence, I'm always excited to code and learn.
+
+🎮 Gamer at Heart: Gaming isn't just a hobby; it's a way of life. From immersive RPGs to competitive shooters or MOBAs, you'll often find me in the virtual world, embracing thrilling adventures and connecting with fellow gamers.
+
+🎨 Artistic Soul: My creativity extends beyond the keyboard. I find solace in painting and drawing, where I can let my imagination run wild on a canvas. Each stroke of the brush or pencil is a unique expression of my inner world.
+
+🐱 Animal Enthusiast: Cute and cuddly creatures are my weakness. Whether it's cats, dogs, or any adorable animal, I'm a firm believer that they make the world a better place.
 
 ## GitHub Stats
 
@@ -20,8 +29,8 @@ I am a student studying computer science and engineering alongside information t
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anamtf/)
-[![Twitter](https://img.shields.io/twitter/follow/AnaMTF?style=social)](https://twitter.com/AnaMTF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/anamaria-titeche/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/ana.titeche/)
 
 
 
